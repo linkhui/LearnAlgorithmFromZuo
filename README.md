@@ -49,6 +49,18 @@ https://leetcode.cn/problems/find-peak-element/
 ### 013 栈和队列
 [queueAndStack.swift](queueAndStack.swift)
 
+- Stack follows the Last-In, First-Out (LIFO) principle
+![](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjjwycqtfcz0log6ez7b2.jpg)
+
+- Queue follows the First-In, First-Out (FIFO) principle
+![](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk1s7fhd0v814wbp6w80o.png)
+
 ### 用栈实现队列, 用队列实现栈
 [queueWithStack.swift](queueWithStack.swift)
 [stackWithQueue.swift](stackWithQueue.swift)
+
+### 015 最小栈
+要求：
+- 实现一个栈，支持push、pop、top、getMin操作，且时间复杂度为O(1)
+[minStack.swift](minStack.swift)
+
