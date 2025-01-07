@@ -64,3 +64,5 @@ https://leetcode.cn/problems/find-peak-element/
 - 实现一个栈，支持push、pop、top、getMin操作，且时间复杂度为O(1)
 [minStack.swift](minStack.swift)
 
+### 双端队列
+[deque.swift](deque.swift)
