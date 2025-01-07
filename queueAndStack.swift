@@ -177,3 +177,33 @@ print(circularQueue.isFull()) // true
 print(circularQueue.deQueue()) // true
 print(circularQueue.enQueue(4)) // true
 print(circularQueue.Rear()) // 4
+
+
+struct StackStruct<T> {
+    private var items: [T] = []
+
+    mutating func push(_ item: T) {
+        items.append(item)
+    }
+
+    mutating func pop() -> T? {
+        return items.removeLast()
+    }
+
+    func peek() -> T? {
+        return items.last
+    }
+
+    func isEmpty() -> Bool {
+        return items.isEmpty
+    }
+}
+
+var stackStruct = StackStruct<Int>()
+stackStruct.push(10)
+stackStruct.push(20)
+stackStruct.push(30)
+
+print(stackStruct.pop() ?? "Stack Underflow")  // Output: 30
+print(stackStruct.peek() ?? "Stack is empty") // Output: 20
+print(stackStruct.isEmpty())  // Output: false
