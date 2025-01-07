@@ -1,5 +1,6 @@
 //https://leetcode.cn/problems/implement-queue-using-stacks/description/
 // 232. 用栈实现队列
+// 但从平摊分析的角度来看，所有基本操作（push、pop、peek）的平均时间复杂度都是 O(1)。这是因为每个元素从入队到出队的过程中，最多只会被移动两次（一次进入 inStack，一次转移到 outStack）。
 
 class MyQueue {
     private var inStack: [Int]

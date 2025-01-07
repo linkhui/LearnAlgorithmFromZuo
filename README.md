@@ -32,3 +32,23 @@ https://leetcode.cn/problems/find-peak-element/
 
 ### 复杂度测试
 [complexity.swift](complexity.swift)
+
+## 链表
+
+### 010 合并两个有序链表
+[mergeTwoLists.swift](mergeTwoLists.swift)
+
+### 011 两数相加，链表求和
+[addTwoList.swift](addTwoList.swift)
+
+### 012 分隔链表
+[partitionList.swift](partitionList.swift)
+
+## 栈和队列
+
+### 013 栈和队列
+[queueAndStack.swift](queueAndStack.swift)
+
+### 用栈实现队列, 用队列实现栈
+[queueWithStack.swift](queueWithStack.swift)
+[stackWithQueue.swift](stackWithQueue.swift)
