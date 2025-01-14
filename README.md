@@ -81,6 +81,7 @@ https://leetcode.cn/problems/find-peak-element/
 ### 021 归并排序
 [mergeSort.swift](mergeSort.swift)
 
+### 022 归并分治
 
-
-
+#### 小和问题
+[smallSum.swift](smallSum.swift)
