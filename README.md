@@ -85,3 +85,6 @@ https://leetcode.cn/problems/find-peak-element/
 
 #### 小和问题
 [smallSum.swift](smallSum.swift)
+
+#### 翻转对数量
+[reversePairs.swift](reversePairs.swift)
