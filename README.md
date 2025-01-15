@@ -88,3 +88,6 @@ https://leetcode.cn/problems/find-peak-element/
 
 #### 翻转对数量
 [reversePairs.swift](reversePairs.swift)
+
+### 随机快速排序
+[quickSort.swift](quickSort.swift)
