@@ -91,3 +91,6 @@ https://leetcode.cn/problems/find-peak-element/
 
 ### 随机快速排序
 [quickSort.swift](quickSort.swift)
+
+### 024 随机选择第k小的元素或者第k大的元素
+[randomizedSelect.swift](randomizedSelect.swift)
