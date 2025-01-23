@@ -97,3 +97,9 @@ https://leetcode.cn/problems/find-peak-element/
 
 ### 025 堆排序
 [heapSort.swift](heapSort.swift)
+
+### 026 比较器
+[comparator.swift](comparator.swift)
+
+### 027 合并K个有序链表
+[mergeSortedLists.swift](mergeSortedLists.swift)
